@@ -15,4 +15,4 @@ HOST-SUFFIX,spotifyjobs.com,Spotify
 HOST-KEYWORD,spotify.com,Spotify
 USER-AGENT,*Spotify*,Spotify
 USER-AGENT,Spotify*,Spotify
-IP-CIDR,35.186.224.47/32,Spotif
+IP-CIDR,35.186.224.47/32,Spotify
